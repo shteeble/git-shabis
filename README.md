@@ -6,11 +6,11 @@
 $npm install git-shabis
 ```
 # מצווס - mitzvis
-שטיופ טוישן
+שלפ טוישן
 ```
 $ git-shlep // git pull
 ```
-שלפ טוישן
+שטיופ טוישן
 ```
 $ git-shtup // git push
 ```
