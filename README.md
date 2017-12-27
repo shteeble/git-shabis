@@ -26,7 +26,3 @@ Be malshin to other avreichim
 ```
 $ git-loshon_hora // git blame
 ```
-מאך צ'ולנט
-```
-$ git-chulent // git merge
-```
