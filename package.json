@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "echo Kashering git... bash git-shabis-setup.sh"
+    "start": "echo \"Kashering git...\" && bash git-shabis-setup.sh"
   },
   "repository": {
     "type": "git",
