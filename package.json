@@ -1,0 +1,17 @@
+{
+  "name": "git shabis",
+  "description": "git far yiddin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash git-shabis-setup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shteeble/git-shabis.git"
+  },
+  "keywords": [],
+  "author": "A couple of yiddin",
+  "license": "ISC",
+  "homepage": "https://github.com/shteeble/git-shabis"
+}
