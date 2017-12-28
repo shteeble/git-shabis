@@ -1,5 +1,5 @@
 {
-  "name": "git shabis",
+  "name": "git-shabis",
   "description": "git far yiddin",
   "version": "1.0.0",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "https://github.com/shteeble/git-shabis.git"
   },
   "keywords": [],
-  "author": "A couple of yiddin",
+  "author": "A couple avreichim",
   "license": "ISC",
   "homepage": "https://github.com/shteeble/git-shabis"
 }
