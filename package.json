@@ -18,6 +18,6 @@
     "gitconfig": "2.0.3"
   },
   "bin": {
-      "git-shabis-setup": "./bin/demo-global.js"
+      "kasher-git": "./bin/git-shabis-setup.js"
     },
 }
