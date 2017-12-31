@@ -1,7 +1,7 @@
 {
   "name": "git-shabis",
   "description": "git far yiddin",
-  "version": "2.0.0",
+  "version": "2.613.0",
   "main": "index.js",
   "scripts": {
     "start": "bash git-shabis-setup.sh"
