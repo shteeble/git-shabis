@@ -9,21 +9,25 @@ $kasher-git
 # מצווס - mitzvis
 שלפ טוישן
 ```
-$ git-shlep // git pull
+$ git shlep // git pull
 ```
 שטיופ טוישן
 ```
-$ git-shtup // git push
+$ git shtup // git push
 ```
 shep changes
 ```
-$ git-shep //git fetch
+$ git shep //git fetch
+```
+Get nafka mina of different girsas
+```
+$ git nafka-mina //git diff
 ```
 מאך צ'ולנט
 ```
-$ git-chulent // git merge
+$ git chulent // git merge
 ```
 Be malshin to other avreichim
 ```
-$ git-loshon_hora // git blame
+$ git loshon-hora // git blame
 ```
