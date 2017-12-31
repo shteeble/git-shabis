@@ -19,5 +19,6 @@
   },
   "bin": {
       "kasher-git": "./bin/git-shabis-setup.js"
-    },
+  },
+  "preferGlobal": true
 }
