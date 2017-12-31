@@ -1,0 +1,16 @@
+API Guide
+-----
+
+API guide for Argx instance, which is returned by `argx(arguments)`.
+
+| Signature | Description | Example
+| ----- | ----- | --- |
+| **.pop()** | Pop an argument value from last. | args.pop() |
+| **.pop(count)** | Pop multiple values from last. Orders are preserved. | args.pop(1) |
+| **.pop(type)** | Pop only if the last value conform the type. | args.pop("number") <br/> args.pop("number&#124;string") <br/> args.pop(CustomObj) |
+| **.pop(count, type)** | Pop values while conforming the type. | args.pop(2, "number") <br/> args.pop(1, CustomObj) |
+| **.shift()** | Shift an argument value from top. | args.shift() |
+| **.shift(count)** | Shift multiple values from top. | args.shift(2) |
+| **.shift(type)** | Shift only if the top value conform the type. | args.shift("string") <br/> args.pop("object&#124;string") <br/> args.shift(CustomObj) |
+| **.shift(count, type)** | Shift values while conforming the type. | args.shift(2, "string") <br/> args.shift(4, CustomObj) |
+| **.remain()** | Shift all remained values. Always returns an array. | args.remain() |

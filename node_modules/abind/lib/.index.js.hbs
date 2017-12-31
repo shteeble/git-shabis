@@ -1,0 +1,17 @@
+/**
+ * {{pkg.description}}
+ * @module {{pkg.name}}
+ * @version {{pkg.version}}
+ */
+
+'use strict'
+
+const abind = require('./abind')
+
+let lib = abind.bind(this)
+
+Object.assign(lib, abind, {
+  abind
+})
+
+module.exports = lib

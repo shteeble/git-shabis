@@ -1,0 +1,18 @@
+/**
+ * Bud file for LICENSE
+ */
+
+'use strict'
+
+const { licenseBud } = require('ape-tmpl')
+const { license, repository } = require('./package.json')
+
+module.exports = licenseBud({
+  type: license,
+  holder: repository.split(/\//).shift(),
+  year: 2016
+})
+
+if (!module.parent) {
+  require('coz').render(__filename)
+}

@@ -13,5 +13,8 @@
   "keywords": [],
   "author": "A couple avreichim",
   "license": "ISC",
-  "homepage": "https://github.com/shteeble/git-shabis"
+  "homepage": "https://github.com/shteeble/git-shabis",
+  "dependencies": {
+    "gitconfig": "2.0.3"
+  }
 }

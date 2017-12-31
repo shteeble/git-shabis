@@ -1,0 +1,32 @@
+Tips
+-----
+
+### Detecting Custom Types.
+
+Type which `.pop()`/`.shift()` accept is string, a custom object or a custom constructor.
+
+```javascript
+function MyConstructor(){/*...*/};
+args.pop(MyConstructor); // Pop only if the last argument is instantiate by `new MyConstructor()`
+
+var MyObj = {/*...*/};
+args.pop(MyObj); // Pop only if the last argument is create by `Object.create(MyObj)`
+```
+
+### Specify Multiple Types
+
+There are two ways to specify 'or' condition for types.
+
+1. Passing string joined by "|" (eg: `args.pop('string|number');` )
+2. Passing array as type (eg: `args.pop(['string', MyCustomObj]);` )
+
+
+### Want Array Always
+
+Note that `.pop()`/`.shift()` methods returns values as array **only when multiple entries hit**.
+If you want to make sure to keep values as array, use `[].concat()`.
+
+```javascript
+var args = argx(arguments);
+var values = [].concat(args.pop(2, 'string') || []); // Always array.
+```
