@@ -3,7 +3,8 @@
 
 ### Installation
 ```
-$npm install git-shabis
+$npm install -g git-shabis
+$kasher-git
 ```
 # מצווס - mitzvis
 שלפ טוישן
