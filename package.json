@@ -1,7 +1,7 @@
 {
   "name": "git-shabis",
   "description": "git far yiddin",
-  "version": "613.1.18",
+  "version": "613.1.19",
   "main": "index.js",
   "scripts": {
     "start": "bash git-shabis-setup.sh"
@@ -18,8 +18,8 @@
     "gitconfig": "2.0.3"
   },
   "bin": {
-      "kasher-git": "./bin/git-shabis-setup.js"
-      "treif-up-git: "./bin/git-shabis-destroy.js" 
+      "kasher-git": "./bin/git-shabis-setup.js",
+      "treif-up-git": "./bin/git-shabis-destroy.js" 
   },
   "preferGlobal": true
 }
