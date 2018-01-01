@@ -19,6 +19,7 @@
   },
   "bin": {
       "kasher-git": "./bin/git-shabis-setup.js"
+      "treif-up-git: "./bin/git-shabis-destroy.js" 
   },
   "preferGlobal": true
 }
