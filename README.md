@@ -1,5 +1,5 @@
 # Git-Shabis
-###  גיט פער יידעין
+###  גיט פאר יידעין
 
 ### Installation
 ```
@@ -22,7 +22,7 @@ $ git shtup // git push
 ```
 shep changes
 ```
-$ git shep //git fetch
+$ git chap //git fetch
 ```
 Get nafka mina of different girsas
 ```
@@ -30,9 +30,25 @@ $ git nafka-mina //git diff
 ```
 מאך צ'ולנט
 ```
-$ git chulent // git merge
+$ git chollent // git merge
 ```
-Be malshin to other avreichim
+Be malshin to other yiddin
 ```
 $ git loshon-hora // git blame
+```
+וואַרפן צו די געניזאַ
+```
+$ git gniza // git stash
+```
+גיט פאַרבינדן
+```
+$ git farbinden // git connect
+```
+באַקומען די דרך 
+```
+$ git drochim // git branch
+```
+גיט אַפּיקאָרס
+```
+$ git apikoyres // git checkout -b
 ```
