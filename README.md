@@ -40,6 +40,10 @@ $ git loshon-hora // git blame
 ```
 $ git gniza // git stash
 ```
+גיט שמוץ ארויס
+```
+$ git shmutz // git stash
+```
 גיט פאַרבינדן
 ```
 $ git farbinden // git connect
@@ -51,4 +55,16 @@ $ git drochim // git branch
 גיט אַפּיקאָרס
 ```
 $ git apikoyres // git checkout -b
+```
+גיט גוואַלד
+```
+$ git givald // git help
+```
+גיט או ויי
+```
+$ git oy-vey // git help
+```
+גיט שמוז
+```
+$ git shmooz // git log
 ```
