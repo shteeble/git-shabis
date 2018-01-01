@@ -6,6 +6,11 @@
 $npm install -g git-shabis
 $kasher-git
 ```
+### Uninstall
+```
+$treif-up-git
+$npm uninstall -g git-shabis
+```
 # מצווס - mitzvis
 שלפ טוישן
 ```
