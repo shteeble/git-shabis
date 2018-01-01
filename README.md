@@ -38,7 +38,7 @@ $ git loshon-hora // git blame
 ```
 וואַרפן צו די געניזאַ
 ```
-$ git geniza // git stash
+$ git gniza // git stash
 ```
 גיט פאַרבינדן
 ```
@@ -50,5 +50,5 @@ $ git drochim // git branch
 ```
 גיט אַפּיקאָרס
 ```
-$ git apikoyres // git chcekout -b
+$ git apikoyres // git checkout -b
 ```
