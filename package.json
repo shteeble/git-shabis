@@ -1,7 +1,7 @@
 {
   "name": "git-shabis",
   "description": "git far yiddin",
-  "version": "613.1.24",
+  "version": "613.1.25",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
