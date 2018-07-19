@@ -68,3 +68,7 @@ $ git oy-vey // git help
 ```
 $ git shmooz // git log
 ```
+גיט וואס
+```
+$ git vus // git status
+```
