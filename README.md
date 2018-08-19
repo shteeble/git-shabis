@@ -11,12 +11,12 @@ $kasher-git
 $treif-up-git
 $npm uninstall -g git-shabis
 ```
-# מצווס - mitzvis
-שלפ טוישן
+# מצוות - mitzvis
+שלעפ טוישן
 ```
 $ git shlep // git pull
 ```
-שטיופ טוישן
+שטופ טוישן
 ```
 $ git shtup // git push
 ```
@@ -28,7 +28,7 @@ Get nafka mina of different girsas
 ```
 $ git nafka-mina //git diff
 ```
-מאך צ'ולנט
+מאך טשאלנט
 ```
 $ git chollent // git merge
 ```
@@ -36,7 +36,7 @@ Be malshin to other yiddin
 ```
 $ git loshon-hora // git blame
 ```
-וואַרפן צו די געניזאַ
+וואַרפן צו די גניזה
 ```
 $ git gniza // git stash
 ```
@@ -52,7 +52,7 @@ $ git farbinden // git connect
 ```
 $ git drochim // git branch
 ```
-גיט אַפּיקאָרס
+גיט אפיקורוס
 ```
 $ git apikoyres // git checkout -b
 ```
@@ -60,7 +60,7 @@ $ git apikoyres // git checkout -b
 ```
 $ git givald // git help
 ```
-גיט או ויי
+גיט אוי ויי
 ```
 $ git oy-vey // git help
 ```
