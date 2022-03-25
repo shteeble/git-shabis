@@ -31,6 +31,10 @@ $ git shlep // git pull
 ```
 $ git shtup // git push
 ```
+```
+$ git chutzpah // git push --force
+```
+
 shep changes
 ```
 $ git chap //git fetch
