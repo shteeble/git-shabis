@@ -87,3 +87,70 @@ $ git shmooz // git log
 ```
 $ git vus // git status
 ```
+
+# Now in Lushon HaKodesh
+שלעפ טוישן
+
+```
+$ git שלעפ // git pull
+```
+שטופ טוישן
+```
+$ git שטופ // git push
+```
+shep changes
+```
+$ git חאפ //git fetch
+```
+Get nafka mina of different girsas
+```
+$ git נפקא_מינא //git diff
+```
+מאך טשאלנט
+```
+$ git טשאלנט // git merge
+```
+Be malshin to other yiddin
+```
+$ git לשון_הרע // git blame
+```
+וואַרפן צו די גניזה
+```
+$ git גניזה // git stash
+```
+גיט שמוץ ארויס
+```
+$ git שמוץ // git stash
+```
+גיט פאַרבינדן
+```
+$ git פארבינדן // git connect
+```
+באַקומען די דרך
+```
+$ git דרכים // git branch
+```
+גיט אפיקורוס
+```
+$ git אפיקורוס // git checkout -b
+```
+גיט נאך א מאל
+```
+$ git נאך_א_מול // git rebase
+```
+גיט גוואַלד
+```
+$ git גוואַלד // git help
+```
+גיט אוי ויי
+```
+$ git אוי_ויי // git help
+```
+גיט שמוז
+```
+$ git שמוז // git log
+```
+גיט וואס
+```
+$ git וואס // git status
+```
