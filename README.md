@@ -87,3 +87,7 @@ $ git shmooz // git log
 ```
 $ git vus // git status
 ```
+גיט-פילטע פיש
+```
+$ git filtefish // git filter-repo
+```
