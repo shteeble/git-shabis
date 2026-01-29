@@ -87,3 +87,70 @@ $ git shmooz // git log
 ```
 $ git vus // git status
 ```
+
+# מצוות קדושות - holy mitzvis
+
+שלעפ טוישן
+```
+$ gut שלעפ // git pull
+```
+שטופ טוישן
+```
+$ gut שטופ // git push
+```
+חאפ טוישן
+```
+$ gut חאפ // git fetch
+```
+נפקא מינא
+```
+$ gut נפקא_מינא // git diff
+```
+מאך טשאלנט
+```
+$ gut טשאלנט // git merge
+```
+לשון הרע
+```
+$ gut לשון_הרע // git blame
+```
+וואַרפן צו די גניזה
+```
+$ gut גניזה // git stash
+```
+גיט שמוץ ארויס
+```
+$ gut שמוץ // git stash
+```
+גיט פאַרבינדן
+```
+$ gut פאַרבינדן // git connect
+```
+באַקומען די דרך
+```
+$ gut דרכים // git branch
+```
+גיט אפיקורס
+```
+$ gut אפיקורס // git checkout -b
+```
+גיט נאך א מאל
+```
+$ gut נאך_א-מול // git rebase
+```
+גיט גוואַלד
+```
+$ gut גוואלד // git help
+```
+גיט אוי ויי
+```
+$ gut אוי_ויי // git help
+```
+גיט שמוז
+```
+$ gut שמוז // git log
+```
+גיט וואס
+```
+$ gut וואס // git status
+```
